@@ -15,7 +15,7 @@ int main(){
 
     std::string nombre = "juan";
 
-    std::cout<<"hola"<<nombre; 
+    std::cout<<"hola "<<nombre; 
 
     return 0; 
 }
